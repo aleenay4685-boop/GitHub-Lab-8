@@ -1,3 +1,4 @@
+VERSION = "2.0-beta"
 def add(a, b):
     return a + b
 
