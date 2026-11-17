@@ -1,3 +1,4 @@
+VERSION = "1.1-stable"
 def add(a, b):
     return a + b
 
